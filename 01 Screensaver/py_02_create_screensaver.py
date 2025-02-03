@@ -17,7 +17,7 @@ def split_string(input_string, max_length):
             else:
                 current_line = word
         else:
-            # If yes, push the current line to the lines list and start a new line with the word
+            # If yes, push the current line to the lines list and start a new line with the wor
             lines.append(current_line)
             current_line = word
     
