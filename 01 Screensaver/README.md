@@ -2,14 +2,21 @@
 04/02/2025
 
 ## Introduction
-This repository contains the code needed to create a custom Screensaver. The idea of this screensaver is to replicate the loading screens of a videogame, but adapting it to real life; hence the tips provided by the "loading screen" will actually be for real life. There are jokes in the tips. For legal reasons, those are nothing more than jokes.
-Feel free to modify the tips.txt as well as the used images if the Screensaver images don't align with your humour.
-Also, don't forget to have fun!
+This repository contains the code needed to create a custom screensaver designed to mimic video game loading screens—but with a real-life twist. Instead of in-game hints, the screensaver displays real-life gaming tips, blending humor and practical advice.
+
+The template used for the background comes from Need For Speed Most Wanted 5.2.0 (for PSP), Upscaled using AI (any AI upscaler on the internet). Note that I do not own the rights for that game, for which the credits go to Electronic Arts.
+
+## Disclaimer
+Some tips contain jokes or satire. These are **just jokes** and should not be taken as real advice. Modify tips.txt and the images as needed to match your sense of humor. 
+The images used for this project come mainly from Google Images. I do not own the rights to these images. If you're using this for a commercial project, ensure you have the appropriate rights to the images.
 
 ## Full Download
-For storage space reasons, the images used are not on Github, but on Google Drive. The images come mainly from Google Images; I do not own the rights for those images, so pay attention in case of commmercial projects.
-The HD pictures and PowerPoint file used to modify them is available at the following Google Drive link:
-https://drive.google.com/drive/folders/1l_6DH4adyvsaKM0swlsXP9OtQwu5vvqu?usp=drive_link
+
+To save storage space, images and powerpoint are not included in this repository. Instead, they can be downloaded from Google Drive, which for redundancy also contains the code.
+
+📂 _[Google Drive Download Link]_ https://drive.google.com/drive/folders/1l_6DH4adyvsaKM0swlsXP9OtQwu5vvqu?usp=drive_link
+
+
 
 ## How To Run
 Once the code is obtained (either just the code via GitHub or the code+images from Google Drive) the fun can start:
