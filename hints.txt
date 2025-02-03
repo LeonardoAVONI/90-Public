@@ -1,0 +1,81 @@
+Ride or Die Stats&Getting tired? Sleeping a few hours might help! (+85% endurance, +90% sharpness)
+Tips and Tricks&Remember: the "5-minutes" tasks are rarely 5 minutes long!
+Ride or Die Stats&Touching hot objects will result in fire damage!
+Ride or Die Stats&Feeling dizzy? Pay attention to your drink, suspicious characters may be nearby...
+Ride or Die Stats&Loosing energy? The local tavern can come handy!
+Tips and Tricks&If door don't open when you push them, try pulling!
+Tools of the Trade&Money can be exchanged for goods and services.
+Crew Dynamics&Smiling and acting welcoming can improve sociability!
+Ride or Die Stats&Getting a headake? Drinking water can be surprisingly effective!
+Tips and Tricks&In case of doubt, asking Google may result useful
+Tips and Tricks&Characters with the "Scavenger" perk will sometimes receive an onion ring in their fries
+Crew Dynamics&Be careful who you trust. Some people aren't always who they seem...
+Tips and Tricks&Masters of Lockpicking can correctly insert a USB on the first try.
+Tools of the Trade&Some types of pants will increase your carry capacity but decrease your Charisma
+Tips and Tricks&Cutting a sandwitch diagonally will give you more sandwitch
+Ride or Die Stats&If you donate blood before a night out, you can get drunk with fewer drinks
+Ride or Die Stats&Masters of Alchemy do not need to use the pharmacy.
+Crew Dynamics&Chameleons will equip any item placed near them.
+Tips and Tricks&Starting an OnlyFans is a risky endeavor for members of the school teacher class...
+Tips and Tricks&Are your employees asking for better wages? Try throwing them a pizza party instead!
+Tools of the Trade&Keep the business card of people you don't like. If you ever bump into somebody's car, leave the card there with "Sorry" written on the back.
+Tools of the Trade&Certain types of bumper stickers indicate that the vehicle can be looted for weapons. Using shields may be required...
+Tools of the Trade&Deep frying a frozen turkey will inflict blast damage!
+Tools of the Trade&You can acquire a holiday donation bucket and then keep the gold for yourself!
+Tools of the Trade&During the Black Friday holiday events, Master of Melee combat can improve negociations
+Crew Dynamics&Giving out full-sized candy items during the event will increase your Fame
+Crew Dynamics&With high enough Charisma, wearing a reflective vest and carrying a clipboard will allow you access to most restricted areas.
+Crew Dynamics&Use the left thumbstick to let other drivers know where the fuck you're going.
+Ride or Die Stats&Band-aids don't heal bullet holes
+Crew Dynamics&NPCs that wear VR headsets in public usually carry high level loot
+Tools of the Trade&When looting homes for sewing supplies, don't forget to check every nook and cranny
+Ride or Die Stats&If your health meter is too low, be sure to see a Healer. Vaccinating can also grant you Invincibility against certain enemies of the Disease type.
+Ride or Die Stats&Eating improves your humour, especially when using sweeets. Excessive eating will however result in Sleepy Conditions
+Tools of the Trade&Acquiring a vehicle will increase Speed
+Crew Dynamics&Wearing a suit can increase Breach
+Crew Dynamics&Resulting successful during your quests will increase your Aura
+Crew Dynamics&Your hygiene and fashion specs will impact your Social Skills
+Crew Dynamics&Be careful when starting conversations. They cannot be skipped.
+Crew Dynamics&If you forget the laws of the land, remember that in some countries you can consider bribing the police!
+Crew Dynamics&Your actions will depend on the NPC you’re talking to, as not all of them are the same. Sometimes you won’t be able to tell a friendly character from an enemy.
+Crew Dynamics&If you keep bothering your friends for too long, you will eventually lose your Likability skill and have to gain a total of 5,000 points to win it back.
+Ride or Die Stats&Not sleeping for too long decreases Efficiency and Stamina
+Crew Dynamics&Don’t like your spouse? You can cancel your marriage in exchange for half of your inventory.
+Crew Dynamics&Breaking the rules of the server will change you to the "Criminal" class
+Crew Dynamics&Sometimes, you will get the love stat. That means that you will feel an attraction to another player!
+Tools of the Trade&After buying a new hub world, you will receive monthly fees. Not paying those will result in lack of features, like internet
+Tools of the Trade&Socketing your rings with gems can increase your Melee Physical Damage as well as your Critical Strike Chance when attacking another player in PvP.
+Tools of the Trade&Remember to keep your passwords safe. Scammers are often inbound...
+Tips and Tricks&The server manual is not available! Do your best with what you have... and don't forget to have fun!
+Tools of the Trade&Epoxy resin and other synthetic products are sold with Curse of Binding. Try to use gloves and protective equipment!
+Tips and Tricks&Some biomes will give you Jump boost
+Tips and Tricks&Some accessories will increase Fire Resistance
+Tips and Tricks&Some armors will increase Weather Resistance while decreasing Agility and Speed
+Ride or Die Stats&Walking barefoot in the dark? Beware of LEGO damage.
+Ride or Die Stats&Low visibility? Glasses of +20 Perception can be equipped.
+Tools of the Trade&Masters of Stealth can avoid conversation by wearing headphones.
+Tools of the Trade&Overloading your inventory may result in a slow movement penalty.
+Crew Dynamics&Engaging in arguments on social media may result in infinite loops.
+Ride or Die Stats&Humming while cooking increases food quality by +10 Deliciousness.
+Ride or Die Stats&Skipping breakfast can cause Hunger Debuff (-15 Mood, -10 Focus).
+Tips and Tricks&Forgetting your umbrella? Prepare for Wet Debuff in rainy biomes.
+Ride or Die Stats&High caffeine intake may temporarily boost Speed but decrease Sleep Timer.
+Tips and Tricks&Procrastination may feel productive but grants no XP.
+Tools of the Trade&"Free Wi-Fi" often has hidden traps—check for Phishing hazards.
+Ride or Die Stats&Starting in Italy? Equipping a Hawaiian pizza may result in a Lifespan Debuff.
+Ride or Die Stats&Ignoring the early signs of illness can lead to the Weakness status effect.
+Tools of the Trade&Certain accessories provide Enhancement bonuses... Choose wisely!
+Tips and Tricks&Wind direction can influence your Speed stat. Adjust your path accordingly.
+Tools of the Trade&Your phone doubles as a map. Check it to locate yourself within the current zone.
+Crew Dynamics&Some meetings restrict movement. Plan activities for your downtime.
+Crew Dynamics&Not all players play fair. Don’t let the bad ones lower your morale!
+Tools of the Trade&Reading books increases your Knowledge, helping you to unlock hidden skills and perks.
+Crew Dynamics&In this version of life, cutscenes cannot be skipped. Embrace the story!
+Crew Dynamics&Companions have their own lives. They won’t follow you everywhere, nor can they be forced to.
+Ride or Die Stats&Disabling morning alarms may result in Unpredictable Wake-Up events.
+Tools of the Trade&When troubleshooting computer issues, remember: the problem often resides between the keyboard and the chair.
+Ride or Die Stats&Keep your eyes open. Critical details often hide in plain sight.
+Tools of the Trade&Mastery in Ancient Runes is required to decode certain languages. Befriending a Wizard can help...
+Tips and Tricks&Even the calmest tea parties can turn chaotic. Unstable tables may cause you to lose inventory items...
+Crew Dynamics&Sending risky messages to your ex, crush, or boss between midnight and 6 a.m. increases the chance of a Regret Debuff by 75%.
+Tips and Tricks&A white van parked for a suspiciously long time could signal a high-level Threat Encounter. Players under Level 18 risk permanent save loss or forced respawn events. Avoid the area unless equipped with high Stealth and Agility stats.
