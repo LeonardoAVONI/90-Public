@@ -13,7 +13,7 @@ https://drive.google.com/drive/folders/1l_6DH4adyvsaKM0swlsXP9OtQwu5vvqu?usp=dri
 
 ## How To Run
 Once the code is obtained (either just the code via GitHub or the code+images from Google Drive) the fun can start:
--first, modify the images.pptx PowerPoint according to the images you need. When you are done, export the PowerPoint to pdf, and save the file to the same location as the .pptx
--then, run "py_01_create_decription_images.py" to create the various description images from the pdf
--you can then run "py_02_create_screensaver.py" to create the Screensaver pictures, stored in "02_output_screensaver_images"
--finally, you can set your computer to use the images in "02_output_screensaver_images" for Screensaver purposes
+1. first, modify the images.pptx PowerPoint according to the images you need. When you are done, export the PowerPoint to pdf, and save the file to the same location as the .pptx
+2. then, run "py_01_create_decription_images.py" to create the various description images from the pdf
+3. you can then run "py_02_create_screensaver.py" to create the Screensaver pictures, stored in "02_output_screensaver_images"
+4. finally, you can set your computer to use the images in "02_output_screensaver_images" for Screensaver purposes
